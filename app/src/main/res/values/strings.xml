@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ElectricityBillCalculation</string>
+    <string name="cust_name_digits">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>
